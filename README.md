@@ -13,9 +13,9 @@ My 12-month journey to land ₹1CR+ AI role at NVIDIA/Atlassian
    
    ## Progress Tracker
    - [x] Micro-Step 1A: Google Colab GPU setup ✅
-   - [ ] Micro-Step 1B: GitHub setup (in progress)
-   - [ ] CS231n Lectures 1-4
-   - [ ] Build neural network from scratch
+   - [x] Micro-Step 1B: GitHub setup ✅
+   - [x] Micro-Step 1C: Save first notebook ✅
+   - [ ] CS231n Lecture 1
    
    ## Projects
    Coming soon...
