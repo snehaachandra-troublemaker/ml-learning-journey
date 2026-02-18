@@ -1,4 +1,12 @@
 # ML Learning Journey
+
+This repo documents my structured deep learning upskilling alongside 8+ years of production AI/ML delivery experience. My applied work (RAG systems, Agentic AI, Claude API integrations) lives in enterprise environments — this repo focuses on strengthening my theoretical ML foundations.
+
+   ## Production AI Projects (Enterprise)
+   - Finance Query Automation — Agentic AI, Intent Classification, SAP API
+   - Policy RAG Assistant — RAG, Vector DB, OpenSearch
+   - Intelligent Document Generation — Claude API, Prompt Engineering
+   - AI Meeting Intelligence — Transcript API, LLM summarization, Monday.com
    
    **Current Focus:** Deep Learning Fundamentals (CS231n)
    
