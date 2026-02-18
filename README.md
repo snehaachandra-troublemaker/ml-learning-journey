@@ -15,4 +15,19 @@
    - [ ] Micro-Step 1H: FINAL DELIVERABLES ✅
    
    ## Projects
-   Coming soon...
+
+   ### 1. Neural Network from Scratch (MNIST)
+   - Implemented 2-layer neural network achieving **97.91% accuracy**
+   - Built backpropagation algorithm manually
+   - Compared with PyTorch implementation (96.33%)
+   - **Key Learning:** Deep understanding of gradient descent and optimization
+   
+   **Skills:** Python, NumPy, PyTorch, Neural Networks, Backpropagation
+   
+   [View Project](./02_mnist_from_scratch.ipynb)
+   
+   ---
+   
+   **Author:** Sneha Chandra  
+   **Education:** MS Computer Science (AI), Georgia Institute of Technology  
+   **Contact:** sneha.achandra@gmail.com
