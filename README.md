@@ -11,8 +11,8 @@
    - [x] Micro-Step 1B: GitHub setup ✅
    - [x] Micro-Step 1C: Save first notebook ✅
    - [x] CS231n Lecture 1-4 (Micro-Step 1D-1F)
-   - [ ] Micro-Step 1G: Implement MNIST Neural Network from Scratch ✅
-   - [ ] Micro-Step 1H: FINAL DELIVERABLES ✅
+   - [x] Micro-Step 1G: Implement MNIST Neural Network from Scratch ✅
+   - [x] Micro-Step 1H: FINAL DELIVERABLES ✅
    
    ## Projects
 
